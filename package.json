@@ -1,6 +1,6 @@
 {
   "name": "streamhub-tizen",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "StreamHub TV app for TizenBrew",
   "packageType": "app",
   "appName": "StreamHub",
